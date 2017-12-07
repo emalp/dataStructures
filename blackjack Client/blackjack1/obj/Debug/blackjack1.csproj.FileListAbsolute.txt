@@ -1,0 +1,10 @@
+C:\Users\Emalp\source\repos\blackjack1\blackjack1\bin\Debug\blackjack1.exe.config
+C:\Users\Emalp\source\repos\blackjack1\blackjack1\bin\Debug\blackjack1.exe
+C:\Users\Emalp\source\repos\blackjack1\blackjack1\bin\Debug\blackjack1.pdb
+C:\Users\Emalp\source\repos\blackjack1\blackjack1\obj\Debug\blackjack1.csprojResolveAssemblyReference.cache
+C:\Users\Emalp\source\repos\blackjack1\blackjack1\obj\Debug\blackjack1.Properties.Resources.resources
+C:\Users\Emalp\source\repos\blackjack1\blackjack1\obj\Debug\blackjack1.csproj.GenerateResource.Cache
+C:\Users\Emalp\source\repos\blackjack1\blackjack1\obj\Debug\blackjack1.csproj.CoreCompileInputs.cache
+C:\Users\Emalp\source\repos\blackjack1\blackjack1\obj\Debug\blackjack1.exe
+C:\Users\Emalp\source\repos\blackjack1\blackjack1\obj\Debug\blackjack1.pdb
+C:\Users\Emalp\source\repos\blackjack1\blackjack1\obj\Debug\blackjack1.Client.resources
